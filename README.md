@@ -1,2 +1,2 @@
-# personal-projects
-Collection of personal projects
+# Personal Projects
+A collection of personal projects, mostly odds and ends that are too small for their own repository.
