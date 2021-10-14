@@ -1,7 +1,8 @@
 # Personal Projects
 A collection of personal projects, mostly odds and ends that are too small for their own repository.
 
-## EMNIST_Balanced_CNN Architecture
+## EMNIST_Balanced_CNN
+*Because MNIST is too easy*
 ```
 Model: "sequential"
 _________________________________________________________________
