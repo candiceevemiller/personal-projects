@@ -89,3 +89,4 @@ Trainable params: 251,135
 Non-trainable params: 1,688
 _________________________________________________________________
 ```
+Some notes: Even the best networks seem to top out at 90-ish% on the EMNIST Balanced dataset and when we look at our confusion matrix we may feel a little forgiving towards the network. It's struggling to classify 0 vs O, capital F vs lowercase f, confusing Ls Is and 1s... all in all it tends to make very human mistakes. In a setting where you're trying to use the network to automatically process handwritten text one could use the context of the word or number a character is situated in to help disambiguate it.
