@@ -91,7 +91,7 @@ _________________________________________________________________
 ```
 Some notes: Even the best networks seem to top out at 90-ish% on the EMNIST Balanced dataset and when we look at our confusion matrix we may feel a little forgiving towards the network. It's struggling to classify 0 vs O, capital F vs lowercase f, confusing Ls Is and 1s... all in all it tends to make very human mistakes. In a setting where you're trying to use the network to automatically process handwritten text one could use the context of the word or number a character is situated in to help disambiguate it.
 
-##Curse of Strahd Tarokka Deck
+## Curse of Strahd Tarokka Deck
 Implemented a python class to create the tarokka deck from the d&d 5e Curse of Strahd module. Automates the Tarot reading that determines the location of key items and characters. Used as an opportunity to get more familiar with dunder methods.
 ```
 deck = TarokkaDeck()
