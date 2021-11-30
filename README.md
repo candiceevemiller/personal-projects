@@ -97,3 +97,6 @@ Implemented a python class to create the tarokka deck from the d&d 5e Curse of S
 deck = TarokkaDeck()
 deck.five_card_spread()
 ```
+
+##Pong
+Not much to say, it's standard pong (though the ball gets faster with each rebound)
