@@ -98,5 +98,8 @@ deck = TarokkaDeck()
 deck.five_card_spread()
 ```
 
-##Pong
-Not much to say, it's standard pong (though the ball gets faster with each rebound)
+## Pong (removed)
+Not much to say, it's standard pong (though the ball gets faster with each rebound). Coded in python with turtle module instead of pygame. Removed because the game performance was far too variable from machine to machine and would require a near complete recode in a proper engine.
+
+## Serebii Scraper Prototype Ver 0.0
+Built a scraper using beautiful soup and regular expressions that pulls data from serebii's gen 1 dex pages. Outputs data to pandas dataframe for further analysis. Future plans include automating the population of a SQL database with the data from these pages among others, implementing a pokemon class that can be used with the data to automatically generate pokemon objects with attacks etc to significantly reduce the work of creating a pokemon clone game.
