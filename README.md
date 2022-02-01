@@ -108,4 +108,4 @@ Built a scraper using beautiful soup and regular expressions that pulls data fro
 Created a calculator in python that can convert the spacetime coordinates of an event from one observer to another. Can also calculate length contraction and time dilation effects. Currently working on implementing the ability to draw equivalent Minkowski diagrams for observers using matplotlib and relativistic dynamics calculations as well as adding functionality to handle non-inertial reference frames.
 
 ## Wordle Cheat Engine
-Takes and validates user input for green, yellow, and gray letters, formats the input into regular expressions and searches the wordle dictionary (sourced from github.com/a-vanderheiden) for potential matches and returns a list of matches
+Takes and validates user input for green, yellow, and gray letters, formats the input into regular expressions and searches the wordle dictionary (sourced from github.com/a-vanderheiden) for potential matches and returns a list of matches. Works perfectly but could use refactoring for cleanliness and possibly efficiency.
