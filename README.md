@@ -117,5 +117,7 @@ Assignment for my bootcamp (committed a few months late but c'est la vie) implem
 Just a small notebook where I played around with NLTK and followed the official documentation to learn the ropes. Did some analysis on classic books like Frankenstein.
 
 ## AAPL Stock Forecasting
-
 Attempts to apply time series analysis techniques to AAPL stock. Horrific failure but fun nonetheless
+
+## CIFAR 100
+Attempts at extending a CIFAR10 classifier to CIFAR100 (superclasses) was only able to achieve ~60% accuracy on the test set without transfer learning but keep in mind since there are 20 superclasses random guessing would mean 5% accuracy and the confusion matrix shows a rather successful classifier with some weaknesses.
