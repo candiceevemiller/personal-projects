@@ -109,3 +109,13 @@ Created a calculator in python that can convert the spacetime coordinates of an 
 
 ## Wordle Cheat Engine
 Takes and validates user input for green, yellow, and gray letters, formats the input into regular expressions and searches the wordle dictionary (sourced from github.com/a-vanderheiden) for potential matches and returns a list of matches. Refactored for code readability and added handling of double letter edge cases in a way that doesn't impede on the user experience. Comments may be on the verbose side but I'd rather have overexplained code than underexplained code.
+
+## Advanced Evolutionary Algorithms HW
+Assignment for my bootcamp (committed a few months late but c'est la vie) implementing genetic algorithms from scratch in order to solve the knapsack problem.
+
+## NLTK Practice
+Just a small notebook where I played around with NLTK and followed the official documentation to learn the ropes. Did some analysis on classic books like Frankenstein.
+
+## AAPL Stock Forecasting
+
+Attempts to apply time series analysis techniques to AAPL stock. Horrific failure but fun nonetheless
