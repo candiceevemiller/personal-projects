@@ -121,3 +121,6 @@ Attempts to apply time series analysis techniques to AAPL stock. Horrific failur
 
 ## CIFAR 100
 Attempts at extending a CIFAR10 classifier to CIFAR100 (superclasses) was only able to achieve ~60% accuracy on the test set without transfer learning but keep in mind since there are 20 superclasses random guessing would mean 5% accuracy and the confusion matrix shows a rather successful classifier with some weaknesses.
+
+## Tarot
+Similar to the tarokka implementation (was actually the base program for the tarokka program) allows you to draw tarot cards from a deck with an orientation (reversed/upright). Coult implement spreads but my mind is on other projects right now.
